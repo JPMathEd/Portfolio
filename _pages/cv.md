@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Curriculum Vitae
-
 This page contains a selected overview of my academic and instructional work.  
 A complete version of my curriculum vitae can be downloaded below.
 
