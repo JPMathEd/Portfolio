@@ -11,11 +11,16 @@ redirect_from:
 
 # Curriculum Vitae
 
-[Download PDF CV](/Portfolio/files/Joshua_Plummer_CV.pdf)
+This page contains a selected overview of my academic and instructional work.  
+A complete version of my curriculum vitae can be downloaded below.
+
+[Download Full CV](/Portfolio/files/Joshua_Plummer_CV.pdf)
+
+---
 
 ## Education
 
-**Doctor of Education, Instructional Systems and Learning Sciences**  
+**Doctor of Education, Instructional Technology**  
 Auburn University at Montgomery — Admitted Spring 2026
 
 **M.S. in Mathematics**  
@@ -35,55 +40,59 @@ University of South Alabama, 2016
 ### Auburn University at Montgomery  
 **Lecturer in Mathematics** | 2024–Present
 
-- Teach undergraduate mathematics courses including Precalculus, Elementary Statistics, and College Algebra in both in-person and asynchronous formats.
-- Design assessments and instructional materials aligned with learning outcomes and equitable grading practices.
-- Collaborate on course coordination and co-requisite support initiatives.
-- Incorporate active learning and instructional technology to support student engagement and persistence.
+Teach undergraduate mathematics courses including Precalculus, Elementary Statistics, and College Algebra in both in-person and asynchronous formats. Current work emphasizes active learning, equitable assessment design, co-requisite support, and instructional revision informed by student performance data.
 
 ### Purdue University Global  
 **Adjunct Instructor** | 2025–Present
 
-- Teach fully online undergraduate mathematics courses for nontraditional student populations.
-- Facilitate asynchronous learning through structured modules, discussion-based engagement, and individualized feedback.
+Teach fully online undergraduate mathematics courses for nontraditional student populations using structured asynchronous learning environments and individualized feedback.
 
 ### University of South Alabama  
 **Adjunct Instructor** | 2018–2022, 2025–Present
 
-- Taught undergraduate mathematics courses ranging from Finite Mathematics through Calculus in online, hybrid, and in-person formats.
+Taught undergraduate mathematics courses ranging from Finite Mathematics through Calculus across online, hybrid, and in-person instructional formats.
 
 ### St. Luke’s Episcopal School  
 **Upper School Mathematics Teacher** | 2019–2023
 
-- Developed inquiry-driven mathematics instruction emphasizing conceptual understanding and active learning.
-- Led curricular initiatives including implementation of AP Calculus AB.
-- Advanced standards-based grading and collaborative learning practices.
+Developed inquiry-driven mathematics instruction emphasizing conceptual understanding, collaborative learning, and active engagement. Led curricular initiatives including implementation of AP Calculus AB.
 
 ---
 
-## Research and Instructional Interests
+## Instructional and Research Interests
 
 - Gateway mathematics education
 - Active and inquiry-based learning
 - Instructional systems and structured student support
 - Co-requisite mathematics instruction
 - Peer-assisted learning
-- Accessible course design
+- Accessible and inclusive course design
 - Data-informed instructional revision
 - Online and asynchronous mathematics learning
 
 ---
 
-## Selected Projects
+## Selected Projects and Academic Work
 
-### Co-Requisite Workbook Development  
-Contributed to revision and redevelopment of co-requisite support workbooks for introductory mathematics and statistics courses at Auburn University at Montgomery.
+### Co-Requisite Workbook Development
 
-### Academic Materials Development  
+Contributed to the redevelopment of co-requisite support workbooks for introductory mathematics and statistics courses at Auburn University at Montgomery, with emphasis on clarity, alignment, and conceptual accessibility.
+
+### Academic Materials Development
+
 Led development of instructional support materials for historically challenging general education courses including Calculus, Physics, and Chemistry at the University of South Alabama.
 
-### Graduate Thesis  
+### Graduate Thesis
+
 *On Matroid Representability*  
 University of South Alabama, 2018
+
+### Astronomy Research
+
+Contributed to research on visual binary stars using speckle interferometry at the University of South Alabama.
+
+Publication:  
+Genet, R., et al. (2015). *Kitt Peak Speckle Interferometry of Close Visual Binary Stars.* Journal of Double Star Observations.
 
 ---
 
